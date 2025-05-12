@@ -29,8 +29,8 @@ Evaluate model performance.
 Visualize predictions.
 
 ## PROGRAM
-### Name : Aadithya R
-### Register Number : 212223240001
+### Name : Sakthivel B
+### Register Number : 212222040141
 ```python
 class BiLSTMTagger(nn.Module):
   def __init__(self, vocab_size, tagset_size, embedding_dim = 50, hidden_dim = 100):
